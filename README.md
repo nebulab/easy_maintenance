@@ -1,3 +1,3 @@
 # Easy maintenance #
 
-This gem is under development. Don't use it now
+This gem is under development. Don't use it now!
